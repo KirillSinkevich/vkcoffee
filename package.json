@@ -1,11 +1,11 @@
 {
   "name": "vkcoffee",
-  "version": "1.0.0",
-  "description": "Шифрование текста как в VK Coffee",
+  "version": "1.0.1",
+  "description": "Шифровальщик VK Coffee сообщений.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danyadev/vkcoffee.git"
+    "url": "https://github.com/danyadev/vkcoffee"
   },
   "keywords": [
     "vkcoffee",
