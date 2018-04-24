@@ -1,13 +1,13 @@
 /* 
   Создатель: https://vk.com/eee
   
-  А я в свою очередь этот код подредактировал и вставил в свой проект.
+  А я в свою очередь этот код подредактировал и добавил на гитхаб.
 
   Контактные данные:
    vk: https://vk.com/danyadev
    telegram: https://t.me/danyadev
    альтернативная ссылка: https://t.elegram.ru/danyadev
-   github: https://github.com/danyadev/vk-desktop-app
+   github: https://github.com/danyadev/vkcoffee
 */
 
 'use strict';
