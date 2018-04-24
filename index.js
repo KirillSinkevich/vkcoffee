@@ -1,3 +1,17 @@
+/* 
+  Создатель: https://vk.com/eee
+  
+  А я в свою очередь этот код подредактировал и вставил в свой проект.
+
+  Контактные данные:
+   vk: https://vk.com/danyadev
+   telegram: https://t.me/danyadev
+   альтернативная ссылка: https://t.elegram.ru/danyadev
+   github: https://github.com/danyadev/vk-desktop-app
+*/
+
+'use strict';
+
 var data = {};
 var CryptoJS = CryptoJS || function(u, p) {
   var d = {},
@@ -54,7 +68,7 @@ var CryptoJS = CryptoJS || function(u, p) {
         a.length = u.ceil(c / 4)
       }
     }),
-    w = d.enc = {}
+    w = d.enc = {},
     b = w.Latin1 = {
       stringify: function(a) {
         var c = a.words;
@@ -397,6 +411,8 @@ String.prototype.hexDecode = function() {
   for (var i = 0; i < hex.length; i += 2) str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
   return str;
 };
+
+var _, p, q, w, e, r, t, y, u, i, o;
 
 data.COFFEE = {
   key: (_ = ([][
